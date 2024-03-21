@@ -11,6 +11,7 @@ dotenv.config();
 
 //connection to DB
 connectionDB();
+console.log("connection to DB");
 
 //routes
 
